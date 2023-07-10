@@ -1,0 +1,15 @@
+.videos-align{
+    display:flex;
+    flex-direction: row;
+    
+   
+}
+
+.video-link{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    width:90%;
+    margin-top:20px;
+    background-color:rgb(247, 241, 241);
+}

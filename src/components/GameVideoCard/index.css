@@ -1,0 +1,33 @@
+.game-videos{
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+   
+ 
+
+
+}
+
+@media screen and (min-width:768px){
+    .game-videos{
+        display: flex;
+        flex-direction:row;
+        flex-wrap:wrap;
+        align-items: center;
+        justify-content: center;
+        margin:auto;
+        width:100%;
+        background-color: red;
+    
+    
+    }
+}
+
+.game-video{
+    display:flex;
+    flex-direction:column;
+  align-items: center;
+    margin:20px;
+    margin-right:0px;
+
+}
